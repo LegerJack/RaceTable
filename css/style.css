@@ -15,7 +15,7 @@ table{
     border-bottom: 2px solid #c3c3c3;
 }
 
-.dintable thead th{
+.dintable .dinthead{
     background: #d1d1da;
     color: #ffffff;
 }
