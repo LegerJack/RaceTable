@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+*{
+    font-family: 'Josefin Sans';
+}
+table{
+    border-collapse: collapse;
+}
+.dintable{
+    border: 2px solid #c3c3c3;
+    padding: 4px;
+}
+.dintable th,
+.dintable td{
+    padding: 6px 18px;
+    border-bottom: 2px solid #c3c3c3;
+}
+
+.dintable thead th{
+    background: #d1d1da;
+    color: #ffffff;
+}
