@@ -5,20 +5,32 @@ table{
     font-family: 'Josefin Sans';
 }
 .dintable{
-    border: 2px solid #c3c3c3;
+    border: 1px solid #3c3d3a;
     padding: 4px;
 }
 .dintable th,
 .dintable td{
-    padding: 6px 18px;
-    border-bottom: 2px solid #c3c3c3;
+    padding: 12px;
+    border-bottom: 1px solid #3c3d3a
 }
 
 .dintable .dinthead{
-    background: #d1d1da;
+    background: #3c3d3a;
     color: #ffffff;
 }
 
 .firstPOS{
     background-color: #FFD700;
+    border-color: #FFD700;
+    color: #ffffff;
+}
+.secondPOS{
+    background-color: #C0C0C0;
+    border-color: #C0C0C0;
+    color: #ffffff;
+}
+.thirdPOS{
+    background-color: #cd7f32;
+    border-color: #cd7f32;
+    color: #ffffff;
 }
