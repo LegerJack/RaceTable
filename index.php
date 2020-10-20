@@ -12,6 +12,7 @@
 </head>
 
 <body>
+    <p>Для сортировки нажмите на результаты одной из попыток</p>
     <table class="dintable" id="raceTable">
         <thead>
             <tr class="dinthead">
